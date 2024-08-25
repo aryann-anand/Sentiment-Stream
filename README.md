@@ -18,12 +18,17 @@ Step 3: Install the requirements file
 pip install -r requirements.txt
 ```
 
-Step 4: Run the app
+Step 4: Download the test csv file from here ( you can use your own )
+```
+https://drive.google.com/file/d/1ywE_cy3WKgkoB9w0DuNeelLueEVk_3to/view?usp=sharing
+```
+
+Step 5: Run the app
 ```
 flask --app api.py run
 ```
 
-Step 5: The app will run on port 5000. 
+Step 6: The app will run on port 5000. 
 ```
 localhost:5000
 ```
